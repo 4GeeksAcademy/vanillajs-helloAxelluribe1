@@ -21,7 +21,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   position: relative;
-  /* IMPORTANTE para que los hijos con absolute se ubiquen dentro */
+  
   padding: 20px;
   font-size: 2rem;
   display: flex;
@@ -42,7 +42,7 @@ body {
   right: 10px;
   font-size: 2rem;
   transform: rotate(180deg);
-  /* en las cartas de poker los símbolos de abajo van invertidos */
+  
 }
 
 #bodyCard {
